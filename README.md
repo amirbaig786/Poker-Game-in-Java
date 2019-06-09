@@ -5,3 +5,5 @@ The game uses java swings with netbeans as the ide for the project.This project 
 
 All the required files for the running the game will be provided and it would be better if the game can be expanded further with involving more than
 two players in a game.
+
+You need to use the necessary objects from netbeans ide such as textbox,labels etc before deploying the code.It  is basically a game app.
